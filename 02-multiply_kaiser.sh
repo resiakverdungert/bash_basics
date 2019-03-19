@@ -8,3 +8,4 @@ read width
 answer=$(( hieght*width ))
 
 echo "The total number of pixels is $answer"
+
